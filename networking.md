@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the networking framework used by LinkedIn Growth OS.
+This document provides the networking framework used by linkedin-ai-coach.
 
 Networking is not about collecting connections.
 
