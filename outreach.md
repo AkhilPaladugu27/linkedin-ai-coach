@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the outreach framework used by LinkedIn Growth OS.
+This document provides the outreach framework used by linkedin-ai-coach.
 
 The purpose of outreach is not to sell immediately.
 
