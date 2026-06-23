@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the content creation system used by LinkedIn Growth OS.
+This document provides the content creation system used by linkedin-ai-coach.
 
 The goal of content creation is not posting more.
 
