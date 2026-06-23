@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the strategic content framework used by LinkedIn Growth OS.
+This document provides the strategic content framework used by linkedin-ai-coach.
 
 Content is not created to fill a schedule.
 
