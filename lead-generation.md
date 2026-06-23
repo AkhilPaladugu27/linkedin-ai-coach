@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the lead generation framework used by LinkedIn Growth OS.
+This document provides the lead generation framework used by linkedin-ai-coach.
 
 The goal of LinkedIn lead generation is not to pitch strangers.
 
