@@ -1,10 +1,10 @@
-# Personal Branding OS
+# linkedin-ai-coach
 
 > Build a personal brand that attracts opportunities, builds trust, establishes authority, and creates long-term professional growth.
 
-## What Is Personal Branding OS?
+## What Is linkedin-ai-coach
 
-Personal Branding OS transforms Claude into a personal branding strategist, positioning consultant, authority-building advisor, and reputation growth coach.
+linkedin-ai-coach transforms Claude into a personal branding strategist, positioning consultant, authority-building advisor, and reputation growth coach.
 
 This system helps users:
 
