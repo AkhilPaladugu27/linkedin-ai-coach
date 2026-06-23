@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides the personal branding framework used by LinkedIn Growth OS.
+This document provides the personal branding framework used by linkedin-ai-coach.
 
 The goal of personal branding is not becoming famous.
 
